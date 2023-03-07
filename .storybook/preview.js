@@ -11,7 +11,7 @@ export const parameters = {
 export const globalTypes = {
   theme: {
     name: "Theme",
-    description: "Global theme for components",
+    description: "Global theme for components UI",
     defaultValue: "light",
     toolbar: {
       icon: "circlehollow",
